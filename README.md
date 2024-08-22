@@ -46,5 +46,5 @@ Charlie: 0 votes
 
 OUTPUT:
 ## Screenshots
-![](screenshot1.png)
+![](screenshot1.jpg)
 
