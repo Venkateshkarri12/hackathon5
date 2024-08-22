@@ -19,6 +19,11 @@ This Python program implements a console-based electronic voting system. It allo
 4. **Final Results**  
    - After all votes are cast (when the user types "exit"), the system displays the final vote count for each candidate.
 
+
+
+OUTPUT:
+![Final output](screenshot1.jpg)
+
 ## Example Usage
 
 ```bash
@@ -43,8 +48,4 @@ Enter your Voter ID (or type 'exit' to finish): exit
 Alice: 1 votes
 Bob: 0 votes
 Charlie: 0 votes
-
-OUTPUT:
-## Screenshots
-![](screenshot1.jpg)
 
